@@ -1,4 +1,4 @@
-# fbmi_calculatorlutter_app
+# bmi_calculatorlutter_app
 
 A new Flutter application.
 
